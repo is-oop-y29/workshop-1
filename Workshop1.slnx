@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/common/">
+    <File Path=".gitignore" />
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="Workshop1.Expressions.Console/Workshop1.Expressions.Console.csproj" />
+    <Project Path="Workshop1.Expressions/Workshop1.Expressions.csproj" />
+  </Folder>
+</Solution>
